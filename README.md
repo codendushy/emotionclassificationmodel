@@ -91,6 +91,8 @@ For each audio file, three augmentations are applied:
 
 ---
 **Demo Deployed Link:** [[https://emotionclassificationmodel-ejqtfoxibqkqwekahsg7p5.streamlit.app]](https://emotionclassificationmodel-ejqtfoxibqkqwekahsg7p5.streamlit.app)
+or
+[[https://mummyji-ekzhuzkk3svuffps22ct5f.streamlit.app]](https://mummyji-ekzhuzkk3svuffps22ct5f.streamlit.app)
 
 ## References
 
