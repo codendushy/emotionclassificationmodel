@@ -90,7 +90,7 @@ For each audio file, three augmentations are applied:
 | **surprised** | 0     | 0    | 0       | 1       | 4     | 2       | 3   | 143       |
 
 ---
-**Demo Deployed Link:** [https://c55b-104-196-70-137.ngrok-free.app](https://c55b-104-196-70-137.ngrok-free.app)
+**Demo Deployed Link:** [[https://emotionclassificationmodel-ejqtfoxibqkqwekahsg7p5.streamlit.app]](https://emotionclassificationmodel-ejqtfoxibqkqwekahsg7p5.streamlit.app)
 
 ## References
 
